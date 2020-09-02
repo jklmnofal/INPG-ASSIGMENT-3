@@ -1,10 +1,22 @@
-body {
-    background-image: url(../INPG-ASSIGMENT-3/download.jfif);
-}
 p {
     font-size: 30px;
     color:white;
 }
 h2{
     text-align: center;
+}
+body {
+    background-color:turquoise;
+}
+a {
+    margin-left:90px;
+    margin-right:90px;
+    text-decoration-line: none;
+    color: white;
+    padding-top: 20px;
+
+}
+nav{
+    background-color: black;
+
 }
